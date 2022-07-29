@@ -1,4 +1,8 @@
 <?php
+/*TODO volverlo una librería para usarlo desde un proyecto privado e independinzar los archivos de configuración
+y las salidas generadas, por el momento nos es prioridad
+*/
+
 //como capturar input de terminal
 //https://code.tutsplus.com/tutorials/get-command-line-arguments-with-php-argv-or-getopt--cms-39201
 

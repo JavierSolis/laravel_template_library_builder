@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'b5c93b7c8ee4d962ce5c651951003605ba4e9628',
+        'reference' => 'a99e9ce2dd895c27a07fddacdd5ee21fa7b4cb13',
         'name' => 'javiersolis/templatelibrariesbuildeer',
         'dev' => true,
     ),
     'versions' => array(
         'javiersolis/templatelibrariesbuildeer' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'b5c93b7c8ee4d962ce5c651951003605ba4e9628',
+            'reference' => 'a99e9ce2dd895c27a07fddacdd5ee21fa7b4cb13',
             'dev_requirement' => false,
         ),
     ),
